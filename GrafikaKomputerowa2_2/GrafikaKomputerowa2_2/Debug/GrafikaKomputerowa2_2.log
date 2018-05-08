@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  GrafikaKomputerowa2_2.cpp
+c:\users\tomek\source\repos\grafikakomputerowa2_2\grafikakomputerowa2_2\grafikakomputerowa2_2.cpp(78): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\source\repos\grafikakomputerowa2_2\grafikakomputerowa2_2\grafikakomputerowa2_2.cpp(79): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\source\repos\grafikakomputerowa2_2\grafikakomputerowa2_2\grafikakomputerowa2_2.cpp(91): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\source\repos\grafikakomputerowa2_2\grafikakomputerowa2_2\grafikakomputerowa2_2.cpp(92): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\source\repos\grafikakomputerowa2_2\grafikakomputerowa2_2\grafikakomputerowa2_2.cpp(112): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\source\repos\grafikakomputerowa2_2\grafikakomputerowa2_2\grafikakomputerowa2_2.cpp(113): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\source\repos\grafikakomputerowa2_2\grafikakomputerowa2_2\grafikakomputerowa2_2.cpp(124): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\tomek\source\repos\grafikakomputerowa2_2\grafikakomputerowa2_2\grafikakomputerowa2_2.cpp(125): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  GrafikaKomputerowa2_2.vcxproj -> C:\Users\Tomek\source\repos\GrafikaKomputerowa2_2\Debug\GrafikaKomputerowa2_2.exe

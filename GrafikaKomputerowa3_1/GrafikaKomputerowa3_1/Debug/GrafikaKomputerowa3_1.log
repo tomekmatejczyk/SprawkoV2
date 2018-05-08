@@ -1,0 +1,8 @@
+﻿  GrafikaKomputerowa3_1.cpp
+c:\users\tomek\source\repos\grafikakomputerowa3_1\grafikakomputerowa3_1\grafikakomputerowa3_1.cpp(35): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+c:\users\tomek\source\repos\grafikakomputerowa3_1\grafikakomputerowa3_1\grafikakomputerowa3_1.cpp(109): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\tomek\source\repos\grafikakomputerowa3_1\grafikakomputerowa3_1\grafikakomputerowa3_1.cpp(113): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\tomek\source\repos\grafikakomputerowa3_1\grafikakomputerowa3_1\grafikakomputerowa3_1.cpp(163): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\tomek\source\repos\grafikakomputerowa3_1\grafikakomputerowa3_1\grafikakomputerowa3_1.cpp(165): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\tomek\source\repos\grafikakomputerowa3_1\grafikakomputerowa3_1\grafikakomputerowa3_1.cpp(167): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  GrafikaKomputerowa3_1.vcxproj -> c:\users\tomek\source\repos\GrafikaKomputerowa3_1\Debug\GrafikaKomputerowa3_1.exe
